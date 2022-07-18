@@ -10,10 +10,11 @@ funParagraph {
     margin-right: 100px;
     color: green;
   }
-
-  mainHeading {
+  h1 {
     margin-left: 20px;
-    text-align: right;
+    text-align: center;
+  }
+  #mainHeading {
     color: red;
   }
 
