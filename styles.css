@@ -4,15 +4,14 @@ body {
     margin: 8px;
     display: block;
   }
-
-#funParagraph {
-    margin-left: 100px;
-    margin-right: 100px;
-    color: green;
-  }
   h1 {
     margin-left: 20px;
     text-align: center;
+  }
+  p {
+    margin-left: 100px;
+    margin-right: 100px;
+    color: green;
   }
   #mainHeading {
     color: red;
